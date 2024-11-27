@@ -63,6 +63,7 @@ const TAB_DATA = [
 
         <li>BackEnd Developer At Leads Software Solution(2023-2024)</li>
         <p>Developed Secure APIs, Worked With Complex Database (MongoDB)Queries, Developed Effiecient Scalable Web APIs with Best Structures following clean Architectures of Repository and Controllers,Provided Excellent Results and Finished the task at hand</p>
+        
         <li>Freelancing Fiver And UPwork (2022-present)</li>
         <p>Working With Clients from all over the world, Providing best communication and working enviroment, Worked With many clients and always did the work better than what was expected in clean friendly ways</p>
       </ul>

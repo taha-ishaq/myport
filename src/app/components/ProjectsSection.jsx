@@ -13,7 +13,7 @@ const projectsData = [
     secondaryImages: ["/images/projects/1b.PNG", "/images/projects/1c.PNG","/images/projects/1d.PNG"],
     tag: ["All", "Mobile Apps"],
     gitUrl: "https://github.com/taha-ishaq/resume-builder",
-    previewUrl: "resume-builder-409bf.web.app/",
+    previewUrl: "https://resume-builder-409bf.web.app/",
   },
   {
     id: 2,
